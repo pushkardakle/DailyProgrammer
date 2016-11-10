@@ -1,2 +1,2 @@
 # DailyProgrammer
-Solutions for challenges at r/dailyprogrammer
+My attempts for solutions to challenges at r/dailyprogrammer.
