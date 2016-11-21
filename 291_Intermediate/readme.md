@@ -5,13 +5,21 @@ Formal input
 
 The input will be a whitespace-delimited RPN expression. The supported operators will be:
 + - addition
+
 - - subtraction
+
 *, x - multiplication
+
 / - division (floating point, e.g. 3/2=1.5, not 3/2=1)
+
 // - integer division (e.g. 3/2=1)
+
 % - modulus, or "remainder" division (e.g. 14%3=2 and 21%7=0)
+
 ^ - power
+
 ! - factorial (unary operator)
+
 Sample input:
 0.5 1 2 ! * 2 1 ^ + 10 + *
 Formal output
