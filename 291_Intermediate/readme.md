@@ -4,9 +4,11 @@ A little while back we had a programming challenge to convert an infix expressio
 Formal input
 
 The input will be a whitespace-delimited RPN expression. The supported operators will be:
-+ - addition
 
-- - subtraction
+\+ - addition
+
+
+\- - subtraction
 
 *, x - multiplication
 
